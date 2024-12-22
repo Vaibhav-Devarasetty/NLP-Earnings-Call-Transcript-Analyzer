@@ -1,0 +1,77 @@
+Department,Sub Department
+Customer Service,Support
+Customer Service,Technical Solutions
+Customer Service,Customer Success Management
+Customer Service,Customer Success Operations
+Customer Service,Customer Onboarding and Adoption
+Customer Service,Professional Services
+Legal,Acquisitions
+Legal,Compliance
+Legal,Contracts
+Legal,Corporate Secretary
+Legal,Governance
+Legal,Intellectual Property & Patent
+Legal,Labor & Employment
+Legal,Lawyer / Attorney
+Legal,Legal Counsel
+Legal,Legal Operations
+Legal,Privacy
+Design,Sub Category
+Design,UI/UX Design
+Design,Design Systems
+Design,Graphic / Visual / Brand Design
+Sales,Account Management
+Sales,Channel Sales
+Sales,Business Development
+Sales,Field/Outside Sales
+Sales,RevOps
+Sales,Sales Engineering
+Sales,Sales Training
+Sales,Sales Enablement
+Sales,Partnerships
+Sales,Sales Operations
+Finance,Accounting
+Finance,Financial Planning & Analysis (FP&A)
+Finance,Financial Reporting
+Finance,Financial Strategy
+Finance,Financial Systems
+Finance,Internal Audit & Control
+Finance,Investor Relations
+Finance,Mergers & Acquisitions
+Finance,Financial Risk
+Finance,Sourcing / Procurement
+Finance,Taxation
+Finance,Treasury
+Human Resources,Compensation & Benefits
+Human Resources,"Culture, Diversity & Inclusion"
+Human Resources,Employee & Labor Relations
+Human Resources,HR Business Partner
+Human Resources,Learning & Development
+Human Resources,Recruiting & Talent Acquisition
+Human Resources,Workforce Management
+Human Resources,People Operations
+Human Resources,Human Resource Information System
+Marketing,Advertising
+Marketing,Brand Management
+Marketing,Content Marketing and Communication
+Marketing,Customer Experience
+Marketing,Customer Marketing
+Marketing,Demand Generation
+Marketing,Digital & Social Media Marketing
+Marketing,Event Marketing
+Marketing,Field Marketing
+Marketing,Marketing Analytics / Insights
+Marketing,Marketing Operations
+Marketing,Product Marketing
+Marketing,Public Relations & Strategic Communications
+Marketing,Search Engine Optimization(SEO)
+Engineering,Data Science
+Engineering,Business Intelligence and Analytics
+Engineering,Cloud / Mobility
+Engineering,Product Management
+Engineering,Product Operations
+Engineering,DevOps and Site Reliability
+Engineering,Project Management
+Engineering,Software Engineering
+Engineering,Testing / Quality Assurance
+Engineering,IT and InfoSec
